@@ -3,7 +3,9 @@ Script ClickBot For PC/Desktop
 
 # Plan Before Start
 - First command $apt update && apt upgrade -y
-- Install python3 $apt install python3
+- Install python3 $apt install python3 
+- Next $git clone https://github.com/MinatoAka/clickbot.git
+- Next $cd clickbot
 - Install module command $pip3 install -r module.txt
 - Fix permission $chmod +x doge.sh ltc.sh bch.sh btc.sh zec.sh 
 
