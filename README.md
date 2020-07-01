@@ -21,6 +21,14 @@ _______________________________________________________________________
 - Start script command for Btc coin $bash btc.sh
 
 
+# Features
+- Auto visits ads with skip captcha
+- Auto withdrawal with custom ammount
+- Multi account start
+
+
+Use it wisely, and good luck!!!
+
 # Youtube Channel
 - https://www.youtube.com/c/AkaShinobi
 
