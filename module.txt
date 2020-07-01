@@ -1,0 +1,9 @@
+datetime
+telethon
+argparse
+requests
+bs4
+colorama
+humanfriendly
+fake-useragent
+
