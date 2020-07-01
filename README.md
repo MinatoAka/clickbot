@@ -14,11 +14,11 @@ _______________________________________________________________________
 
 
 # Execute file
-- Start script command for Doge coin $bash doge.sh
-- Start script command for Ltc coin $bash ltc.sh
-- Start script command for Zec coin $bash zec.sh
-- Start script command for Bch coin $bash bch.sh
-- Start script command for Btc coin $bash btc.sh
+- Start script command for Doge coin $./doge.sh
+- Start script command for Ltc coin $./ltc.sh
+- Start script command for Zec coin $./zec.sh
+- Start script command for Bch coin $./bch.sh
+- Start script command for Btc coin $./btc.sh
 
 
 # Features
