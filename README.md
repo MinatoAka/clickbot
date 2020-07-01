@@ -5,11 +5,18 @@ Script ClickBot For PC/Desktop
 - Install module command $pip3 install -r module.txt
 - Fix permission $chmod +x doge.sh ltc.sh bch.sh btc.sh zec.sh 
 
+
 - Input your number in file list.txt
 - Input data wallet & setting min Withdraw at file wallet.json
 
+
+# Execute file
 - Start script command for Doge coin $bash doge.sh
 - Start script command for Ltc coin $bash ltc.sh
 - Start script command for Zec coin $bash zec.sh
 - Start script command for Bch coin $bash bch.sh
 - Start script command for Btc coin $bash btc.sh
+
+
+# Youtube Channel
+- https://www.youtube.com/c/AkaShinobi
