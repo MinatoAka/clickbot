@@ -1,4 +1,5 @@
 # Script ClickBot For PC/Desktop
+- This script only supports desktop terminals
 _______________________________________________________________________
 # Plan Before Start
 - First command $apt update && apt upgrade -y
