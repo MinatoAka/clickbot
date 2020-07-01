@@ -1,6 +1,5 @@
-# clickbot
-Script ClickBot For PC/Desktop
-
+# Script ClickBot For PC/Desktop
+_______________________________________________________________________
 # Plan Before Start
 - First command $apt update && apt upgrade -y
 - Install python3 $apt install python3 
