@@ -1,4 +1,4 @@
-# Script ClickBot For PC/Desktop
+# Script ClickBot v1.5 For PC/Desktop
 - This script only supports desktop terminals
 _______________________________________________________________________
 # Plan Before Start
@@ -12,6 +12,8 @@ _______________________________________________________________________
 # Settings Config
 - Input your number in file list.txt
 - Input data wallet & setting min Withdraw at file wallet.json
+- Create your own api_id & api_hash at https://my.telegram.org/
+- Input your own api_id & api_hash at file config.json
 
 
 # Execute file
@@ -23,6 +25,7 @@ _______________________________________________________________________
 
 
 # Features
+- Free custom Api_Id & Api_Hash
 - Auto visits ads with skip captcha
 - Auto withdrawal with custom ammount
 - Multi account start
