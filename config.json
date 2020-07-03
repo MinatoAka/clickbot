@@ -1,0 +1,28 @@
+{
+	"BTC": {
+	    "Address": "1CEL7ozWdZpf2SuCRjRXvquxpV2adXk9kC",
+	    "Amount": "0.000031"
+    },
+	"LTC": {
+	    "Address": "LfpF1KfSne5WSQHkGdQpXLJjgHbhj5o7T6",
+		"Amount": "0.00045"
+    },
+    "DOGE": {
+        "Address": "DDsu3tCfqXbhoj1j84Ydq3qkBYNZZESC3Q",
+        "Amount": "5.000"
+    },
+    "BCH": {
+        "Address": "qqzkqu0fk4c4aa8cdf2kf55usu9vpx3c55qseleqex",
+        "Amount": "0.00015"
+    },
+    "ZEC": {
+        "Address": "t1QPrt5trQjXMkGgbtNqe92cA3DiinWoeSc",
+        "Amount": "0.00036"
+    },
+	"LOGIN": {
+        "api_id": "1318655",
+        "api_hash": "88a79d684f160fcd7f52260702e87b29"
+	}
+
+}
+
