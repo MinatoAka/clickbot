@@ -11,7 +11,7 @@ _______________________________________________________________________
 
 # Settings Config
 - Input your number in file list.txt
-- Input data wallet & setting min Withdraw at file wallet.json
+- Input data wallet & setting min Withdraw at file config.json
 - Create your own api_id & api_hash at https://my.telegram.org/
 - Input your own api_id & api_hash at file config.json
 
