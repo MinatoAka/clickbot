@@ -25,7 +25,7 @@ _______________________________________________________________________
 
 
 # Features
-- Free custom Api_Id & Api_Hash
+- Free custom your own Api_Id & Api_Hash
 - Auto visits ads with skip captcha
 - Auto withdrawal with custom ammount
 - Multi account start
