@@ -16,7 +16,7 @@ _______________________________________________________________________
 - Input your own api_id & api_hash at file config.json
 
 
-# Execute file
+# Execute File Script
 - Start script command for Doge coin $./doge.sh
 - Start script command for Ltc coin $./ltc.sh
 - Start script command for Zec coin $./zec.sh
