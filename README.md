@@ -1,13 +1,13 @@
-# Script ClickBot v1.5 For PC/Desktop
+# Script ClickBot v1.5 For PC/Desktop Linux
 - This script only supports desktop terminals
 _______________________________________________________________________
 # Plan Before Start
-- First command $apt update && apt upgrade -y
-- Install python3 $apt install python3 
+- First command $sudo apt update && sudo apt upgrade -y
+- Install python3 $sudo apt install python3 
 - Next $git clone https://github.com/MinatoAka/clickbot.git
 - Next $cd clickbot
-- Install module command $pip3 install -r module.txt
-- Fix permission $chmod +x doge.sh ltc.sh bch.sh btc.sh zec.sh 
+- Install module command $sudo pip3 install -r module.txt
+- Fix permission $sudo chmod +x doge.sh ltc.sh bch.sh btc.sh zec.sh 
 
 # Settings Config
 - Input your number in file list.txt
