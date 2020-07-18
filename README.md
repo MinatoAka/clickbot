@@ -12,7 +12,7 @@ _______________________________________________________________________
 # Settings Config
 - Input your number in file config.json
 - Setting pause time between accounts at config.json => "pause" set hours, minutes, seconds
-- Setting pause time between reload script at config.json => "timer" set hours, minutes, seconds
+- Setting pause time reload script at config.json => "timer" set hours, minutes, seconds
 - Input data wallet & setting min Withdraw at file config.json
 - Create your own api_id & api_hash, tutorial at https://youtu.be/L3TE2ftgAcE
 - Input your own api_id & api_hash at file config.json
@@ -25,7 +25,7 @@ _______________________________________________________________________
 
 # Features
 - Full custom your own Api_Id & Api_Hash
-- Full custom timer reload
+- Full custom pause timer & reload timer
 - Auto visits ads with skip captcha
 - Auto withdrawal with custom ammount
 - Unlimited multi account
