@@ -1,4 +1,5 @@
-# Script ClickBot v1.5 For PC/Desktop Linux
+# Shinobi Project
+# Script ClickBot v2 For PC/Desktop Linux
 - This script only supports desktop terminals
 _______________________________________________________________________
 # Plan Before Start
@@ -7,28 +8,27 @@ _______________________________________________________________________
 - Next $git clone https://github.com/MinatoAka/clickbot.git
 - Next $cd clickbot
 - Install module command $sudo pip3 install -r module.txt
-- Fix permission $sudo chmod +x doge.sh ltc.sh bch.sh btc.sh zec.sh 
 
 # Settings Config
-- Input your number in file list.txt
+- Input your number in file config.json
+- Setting pause time between accounts at config.json => "pause" set hours, minutes, seconds
+- Setting pause time between reload script at config.json => "timer" set hours, minutes, seconds
 - Input data wallet & setting min Withdraw at file config.json
 - Create your own api_id & api_hash, tutorial at https://youtu.be/L3TE2ftgAcE
 - Input your own api_id & api_hash at file config.json
 
 
 # Execute File Script
-- Start script command for Doge coin $./doge.sh
-- Start script command for Ltc coin $./ltc.sh
-- Start script command for Zec coin $./zec.sh
-- Start script command for Bch coin $./bch.sh
-- Start script command for Btc coin $./btc.sh
+- For help command $python3 clickbot.py -h/--help
+- Start command $python3 clickbot.py -c DOGE/LTC/BTC/BCH/ZEC
 
 
 # Features
-- Free custom your own Api_Id & Api_Hash
+- Full custom your own Api_Id & Api_Hash
+- Full custom timer reload
 - Auto visits ads with skip captcha
 - Auto withdrawal with custom ammount
-- Multi account start
+- Unlimited multi account
 
 
 Use it wisely, and good luck!!!
