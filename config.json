@@ -32,8 +32,8 @@
     "api_id": "your_api_id",
     "api_hash": "your_api_hash",
     "no": [
-        "+1(input your phone number in international format)",
-        "+62(input your phone number in international format)",
-        "Unlimited Number in same format"
+        "+1xxxxxxx",
+        "+62xxxx",
+        "+62xxxx"
         ]
 }
